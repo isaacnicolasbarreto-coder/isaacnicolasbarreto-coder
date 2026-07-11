@@ -4,7 +4,7 @@
 
 
 
-** Backend Developer | Go**
+ Backend Developer | Go
 
 <br/>
 
