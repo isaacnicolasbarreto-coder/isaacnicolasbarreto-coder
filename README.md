@@ -12,7 +12,7 @@
 🇧🇷 Portuguese (Native)
 
 
-Meu Nome é Isaac Nicolas Barreto Quadros,sou estudante de Desenvolvimento de Sistemas em um curso técnico ligado ao ensino médio. Nasci em Ananindeua-PA e 
+Meu Nome é Isaac Nicolas Barreto Quadros,sou estudante de Desenvolvimento de Sistemas em um curso técnico ligado ao ensino médio. Nasci em Ananindeua-PA e no momento busco aprender.
 
 
 
