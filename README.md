@@ -74,7 +74,7 @@ Meu Nome é Isaac Nicolas Barreto Quadros,sou estudante de Desenvolvimento de Si
 ### 📊 Statistics
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=luizjardel&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=Isaacnicolasbarreto-coder&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=isaacnicolasbarreto-code&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
