@@ -39,14 +39,14 @@ Meu Nome é Isaac Nicolas Barreto Quadros,sou estudante de Desenvolvimento de Si
 ---
 
 <div align="center">
-### 🤖 Linguagens e Tecnologias
+ 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    alt="GO"
+    title="GOLANG" 
+    width="40px" 
+    style="padding-right: 40px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 
 
@@ -57,11 +57,11 @@ Meu Nome é Isaac Nicolas Barreto Quadros,sou estudante de Desenvolvimento de Si
 
 <br/>
 
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
 
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white" />
+
+
+
 
 </div>
 
